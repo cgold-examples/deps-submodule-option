@@ -1,0 +1,6 @@
+[submodule "third_party/a"]
+	path = third_party/a
+	url = https://github.com/cgold-examples/a
+[submodule "third_party/b"]
+	path = third_party/b
+	url = https://github.com/cgold-examples/b
